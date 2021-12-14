@@ -1,0 +1,5 @@
+"C:\Program Files\JetBrains\CLion 2020.3.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" C:\Users\danil\CLionProjects\lab4
+-- Found Python: C:/Users/danil/AppData/Local/Programs/Python/Python310/python.exe (found version "3.10.0") found components: Interpreter 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/danil/CLionProjects/lab4/cmake-build-debug

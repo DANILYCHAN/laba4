@@ -1,0 +1,1 @@
+-I/include -isystem C:/Users/danil/CLionProjects/lab4/TESTS/lib/googletest-master/googlemock/include -isystem C:/Users/danil/CLionProjects/lab4/TESTS/lib/googletest-master/googlemock -isystem C:/Users/danil/CLionProjects/lab4/TESTS/lib/googletest-master/googletest/include -isystem C:/Users/danil/CLionProjects/lab4/TESTS/lib/googletest-master/googletest
